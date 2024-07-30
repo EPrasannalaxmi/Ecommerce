@@ -1,0 +1,57 @@
+.loginsignup{
+    width: 100%;
+    height: 130vh;
+    background:#fce3fe;
+    padding-top: 100px;
+}
+
+.loginsignup-container{
+    width: 500px;
+    height: 600px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+    border-radius: 10px;
+}
+
+.loginsignup-container h1{
+    margin: 20px 0px;
+    background: white;
+}
+
+.loginsignup-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 30px;
+    background: white;   
+}
+
+.loginsignup-fields input{
+    background: white;
+    border-radius: 4px;
+    height: 35px;
+}
+
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: white;
+    border-radius: 15px;
+    height: 45px;
+    width: 150px;
+    margin-left: 35%;
+    background: rgb(225, 225, 233);
+}
+
+.loginsignup-login{
+    background: white;
+}
+
+.loginsignup-agree{
+    background: white;
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    gap: 20px;
+}
